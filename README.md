@@ -6,3 +6,5 @@
 
 - [ ] Curso de C
 - [ ] Curso de C++
+
+### Em cada linguagem, eu estou separando os cursos por autor.

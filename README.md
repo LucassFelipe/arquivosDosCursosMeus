@@ -1,4 +1,4 @@
-# arquivosDosCursosMeus
+# Arquivos-dos-meus-cursos
 
 ## Cursos:
 

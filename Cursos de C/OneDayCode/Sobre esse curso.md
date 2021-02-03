@@ -1,5 +1,5 @@
-Comecei esse curso em 30/01/2021...
+﻿Comecei esse curso em 30/01/2021...
 
 esse curso é da udemy, e inclusive é de graça!
 
-Clique aqui para ir no link deste [curso] (https://www.udemy.com/course/c-e-c-fundamentos-para-logica-de-programacao/)
+Link: https://www.udemy.com/course/c-e-c-fundamentos-para-logica-de-programacao/

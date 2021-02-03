@@ -1,4 +1,4 @@
-﻿Comecei esse curso em 03/02/2021
+Comecei esse curso em 03/02/2021
 
 Esse curso tem no canal de youtube dele, e também no site dele.
 
